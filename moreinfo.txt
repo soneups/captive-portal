@@ -1,0 +1,4 @@
+https://raspberrypi.stackexchange.com/questions/88438/raspberry-pi-as-access-point-with-captive-portal
+https://pimylifeup.com/raspberry-pi-captive-portal/
+http://cybersecurityguy.com/Building_a_Raspberry_Pi_Captive_Portal_Wi-Fi_Hotspot.pdf
+https://pimylifeup.com/raspberry-pi-captive-portal/

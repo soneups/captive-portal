@@ -5,8 +5,8 @@ import cgi
 
 # These variables are used as settings
 PORT       = 9090         # the port in which the captive portal web server listens 
-IFACE      = "wlan2"      # the interface that captive portal protects
-IP_ADDRESS = "172.16.0.1" # the ip address of the captive portal (it can be the IP of IFACE) 
+IFACE      = "wlan0"      # the interface that captive portal protects
+IP_ADDRESS = "192.168.1.45" # the ip address of the captive portal (it can be the IP of IFACE) 
 
 '''
 This it the http server used by the the captive portal
